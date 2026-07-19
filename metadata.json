@@ -1,0 +1,6 @@
+{
+  "name": "MediFlow",
+  "description": "An AI-powered patient care coordination, prescription jargon translation, and healthcare navigation platform.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
