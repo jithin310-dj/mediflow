@@ -156,3 +156,5 @@ MediFlow uses GitHub Actions for continuous integration. A workflow configuratio
 ### Automated Checks Included:
 * **Linting & Code Auditing:** Validates that there are no type discrepancies or syntax bugs via `npm run lint`.
 * **Compilation Verification:** Triggers the compilation pipeline via `npm run build` to ensure production-readiness before merges.
+#   m e d i f l o w  
+ 
